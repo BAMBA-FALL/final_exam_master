@@ -193,3 +193,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - [Android Developers Documentation](https://developer.android.com/)
 - Open-source libraries used in the project.
+
+
+## Auteur
+
+- [Khadim mbacké Fall](https://github.com/BAMBA-FALL)
