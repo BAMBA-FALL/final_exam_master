@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/e746a8ae-c3eb-403e-8e7a-5fd834b1bb1f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repository/final-exam-app.git
+   git clone https://github.com/BAMBA-FALL/final_exam_master.git
    ```
 
 2. Open the project in Android Studio.
